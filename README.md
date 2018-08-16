@@ -1,4 +1,4 @@
-# Robo_PCB
+# ERS-PCB
 
 ## What's this?
 ロボPのラジコン用の基盤です。
