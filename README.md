@@ -1,6 +1,19 @@
 # ERS-PCB
 
-## What's this?
-ロボPのラジコン用の基盤です。
+## Description
+Atlas，Spicaプロジェクトでのロボット用の基板．
 
-.zipは納品用、.fzzはFritzing(<http://fritzing.org/home/>)で開けます。
+## Requirements
+
+### For .fzz file
+
+Fritzing Version 0.9.3 or later
+
+### For kicad folder
+KiCad 5.0.x or later
+
+### Author
+multiverse2011
+
+### License
+MIT
