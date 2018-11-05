@@ -1,2 +1,4 @@
 (sym_lib_table
+  (lib (name Spica-rescue)(type Legacy)(uri ${KIPRJMOD}/Spica-rescue.lib)(options "")(descr ""))
+  (lib (name drv8835-akizuki)(type Legacy)(uri /Users/iris/Projects/ERS-PCB/kicad/Spica/drv8835-akizuki.lib)(options "")(descr ""))
 )
