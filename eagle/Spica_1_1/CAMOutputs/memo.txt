@@ -1,0 +1,7 @@
+ptn_top.grb	copper_top.gbr
+pnt_btm.grb	copper_bottom.gbr
+res_top.grb	soldermask_top.gbr
+res_btm.grb	soldermask_bottom.gbr
+slk_top.grb	silkscreen_top.gbr
+outline.grb	profile.gbr
+dri.grb		drills.xln
