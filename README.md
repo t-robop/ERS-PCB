@@ -15,7 +15,7 @@ KiCad 5.0.x or later
 
 ### Eagle
 
-KiCad 9.x or later
+Eagle 9.x or later
 
 ### Author
 multiverse2011, nishimura
