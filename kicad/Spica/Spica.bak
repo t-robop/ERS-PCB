@@ -297,12 +297,12 @@ $EndComp
 $Comp
 L power:GND #PWR0109
 U 1 1 5BDFCB55
-P 5050 4000
-F 0 "#PWR0109" H 5050 3750 50  0001 C CNN
-F 1 "GND" H 5055 3827 50  0000 C CNN
-F 2 "" H 5050 4000 50  0001 C CNN
-F 3 "" H 5050 4000 50  0001 C CNN
-	1    5050 4000
+P 5050 4300
+F 0 "#PWR0109" H 5050 4050 50  0001 C CNN
+F 1 "GND" H 5055 4127 50  0000 C CNN
+F 2 "" H 5050 4300 50  0001 C CNN
+F 3 "" H 5050 4300 50  0001 C CNN
+	1    5050 4300
 	1    0    0    -1  
 $EndComp
 Text GLabel 7250 3200 0    50   Output ~ 0
@@ -315,20 +315,20 @@ Wire Wire Line
 	9400 2500 10100 2500
 Text GLabel 10100 2500 2    50   BiDi ~ 0
 IO23
-Text GLabel 4600 4100 2    50   Input ~ 0
-IO25
 Text GLabel 4600 4200 2    50   Input ~ 0
+IO25
+Text GLabel 4600 4100 2    50   Input ~ 0
 IO26
-Text GLabel 4600 4300 2    50   Input ~ 0
+Text GLabel 4600 4000 2    50   Input ~ 0
 IO16
-Text GLabel 4600 4400 2    50   Input ~ 0
+Text GLabel 4600 3900 2    50   Input ~ 0
 IO17
 Text GLabel 10100 3400 2    50   Output ~ 0
 IO17
 Text GLabel 10100 3500 2    50   Output ~ 0
 IO16
 Wire Wire Line
-	4600 4000 5050 4000
+	4600 4300 5050 4300
 $Comp
 L power:VCC #PWR0113
 U 1 1 5BE004AF
@@ -343,7 +343,7 @@ $EndComp
 Wire Wire Line
 	3550 3900 3700 3900
 Wire Wire Line
-	4600 3900 4800 3900
+	4600 4400 4800 4400
 Wire Wire Line
 	1050 4200 1050 4000
 Wire Wire Line
@@ -491,7 +491,7 @@ Text GLabel 4700 5500 2    50   Output ~ 0
 3.3V
 Text GLabel 4000 7050 2    50   Input ~ 0
 3.3V
-Text GLabel 4800 3900 2    50   Input ~ 0
+Text GLabel 4800 4400 2    50   Input ~ 0
 3.3V
 Text GLabel 3400 6850 0    50   Input ~ 0
 3.3V
